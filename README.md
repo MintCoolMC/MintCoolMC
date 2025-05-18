@@ -5,4 +5,5 @@ hOi! I'm Mintraspberry Cool (●'◡'●) ![Any/They/Them](https://img.shields.i
 Just feeling this world...
 
 ## Projects
-* [RainbowPieUI(MCBE)](https://github.com/MintCoolMC/MCBE_RainbowPieUI2)
+* [Rainbow Pie UI (MCBE)](https://github.com/MintCoolMC/MCBE_RainbowPieUI2)
+* [Pack Banner (MCBE)](https://github.com/MintCoolMC/MCBE_PackBanner)
